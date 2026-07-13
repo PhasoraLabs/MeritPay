@@ -1,0 +1,16 @@
+# Rust build artifacts
+target/
+
+# Generated circuit artifacts (regenerate with scripts/setup.sh)
+build/
+
+# Node dependencies
+node_modules/
+circuits/node_modules/
+
+# Claude Code local state
+.claude/
+
+# Local env overrides (use .env.example or .env.contracts)
+.env.local
+.env.*.local
