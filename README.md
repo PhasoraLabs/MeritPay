@@ -5,9 +5,6 @@
 [![Stellar](https://img.shields.io/badge/Stellar-Testnet-blue?logo=stellar)](https://developers.stellar.org/)
 [![Circom](https://img.shields.io/badge/ZK-Circom%202.0-green)](https://docs.circom.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/Hackathon-Stellar%20Hacks%20ZK-purple)](https://dorahacks.io/hackathon/stellar-hacks-zk)
-
-> **Hackathon**: Stellar Hacks: Real-World ZK | **Demo Video**: [Watch 2:45 Demo](#) | **Testnet Contract**: [View on Stellar Expert](#)
 
 ---
 
@@ -244,5 +241,3 @@ stellar contract invoke --id $PAYROLL_ID --network testnet --source-account depl
 MIT — see [LICENSE](LICENSE).
 
 ---
-
-*Built for [Stellar Hacks: Real-World ZK](https://dorahacks.io/hackathon/stellar-hacks-zk).*
